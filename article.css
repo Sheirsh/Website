@@ -1,0 +1,32 @@
+#header
+{
+background-color:rgba(40,43,119,0.9);
+margin:10px;
+}
+h1
+{
+	display:inline;
+	margin-left:20px;
+	
+}
+#logo
+{
+	margin-top:10px;
+	margin-left:10px;
+}
+#main
+{
+	float:left;
+	border:1px solid black;
+	width:950px;
+	margin:10px;
+}
+#sidebar
+{
+	border:1px solid balck;
+	background-color:rgba(40,43,119,0.2);
+	margin:10px;
+	float:right;
+	width:340px;
+	text-align:center;
+}
